@@ -1,0 +1,6 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClientWebAjax\bin\ProteinTrackerClientWebAjax.dll.config
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClientWebAjax\bin\ProteinTrackerClientWebAjax.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClientWebAjax\bin\ProteinTrackerClientWebAjax.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClientWebAjax\obj\Debug\ProteinTrackerClientWebAjax.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClientWebAjax\obj\Debug\ProteinTrackerClientWebAjax.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClientWebAjax\obj\Debug\ProteinTrackerClientWebAjax.csprojResolveAssemblyReference.cache

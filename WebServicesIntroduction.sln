@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServicesIntroduction", "WebServicesIntroduction\WebServicesIntroduction.csproj", "{341CE4EB-1B14-4FEB-9DB3-34A779C420AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{815C527D-F06E-4D31-A047-EE7F22B43D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProteinTrackerWebService", "ProteinTrackerWebService\ProteinTrackerWebService.csproj", "{686781A9-E29F-44A4-B2C2-CE5E564B2174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProteinTrackerClient", "ProteinTrackerClient\ProteinTrackerClient.csproj", "{2418703C-F050-4BD2-8996-5ABDF851A54E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{686781A9-E29F-44A4-B2C2-CE5E564B2174} = {686781A9-E29F-44A4-B2C2-CE5E564B2174}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProteinTrackerClientWebAjax", "ProteinTrackerClientWebAjax\ProteinTrackerClientWebAjax.csproj", "{A4FAE003-8133-423C-89CA-1E8DC546875D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProteinTrackerClientWCF", "ProteinTrackerClientWCF\ProteinTrackerClientWCF.csproj", "{30920271-2CF1-4783-AD4A-78BF453823E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341CE4EB-1B14-4FEB-9DB3-34A779C420AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341CE4EB-1B14-4FEB-9DB3-34A779C420AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341CE4EB-1B14-4FEB-9DB3-34A779C420AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341CE4EB-1B14-4FEB-9DB3-34A779C420AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815C527D-F06E-4D31-A047-EE7F22B43D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815C527D-F06E-4D31-A047-EE7F22B43D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815C527D-F06E-4D31-A047-EE7F22B43D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815C527D-F06E-4D31-A047-EE7F22B43D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686781A9-E29F-44A4-B2C2-CE5E564B2174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686781A9-E29F-44A4-B2C2-CE5E564B2174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686781A9-E29F-44A4-B2C2-CE5E564B2174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686781A9-E29F-44A4-B2C2-CE5E564B2174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2418703C-F050-4BD2-8996-5ABDF851A54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2418703C-F050-4BD2-8996-5ABDF851A54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2418703C-F050-4BD2-8996-5ABDF851A54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2418703C-F050-4BD2-8996-5ABDF851A54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FAE003-8133-423C-89CA-1E8DC546875D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FAE003-8133-423C-89CA-1E8DC546875D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FAE003-8133-423C-89CA-1E8DC546875D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FAE003-8133-423C-89CA-1E8DC546875D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30920271-2CF1-4783-AD4A-78BF453823E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30920271-2CF1-4783-AD4A-78BF453823E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30920271-2CF1-4783-AD4A-78BF453823E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30920271-2CF1-4783-AD4A-78BF453823E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

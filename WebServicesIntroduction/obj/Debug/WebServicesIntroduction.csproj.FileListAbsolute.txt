@@ -1,0 +1,6 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\WebServicesIntroduction\bin\Debug\WebServicesIntroduction.exe.config
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\WebServicesIntroduction\bin\Debug\WebServicesIntroduction.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\WebServicesIntroduction\bin\Debug\WebServicesIntroduction.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\WebServicesIntroduction\obj\Debug\WebServicesIntroduction.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\WebServicesIntroduction\obj\Debug\WebServicesIntroduction.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\WebServicesIntroduction\WebServicesIntroduction\obj\Debug\WebServicesIntroduction.csprojResolveAssemblyReference.cache

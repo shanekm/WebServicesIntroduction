@@ -1,0 +1,9 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.Form1.resources
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.Properties.Resources.resources
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.csproj.GenerateResource.Cache
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClient\bin\Debug\ProteinTrackerClient.exe.config
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClient\bin\Debug\ProteinTrackerClient.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClient\bin\Debug\ProteinTrackerClient.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\WebServicesIntroduction\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.csprojResolveAssemblyReference.cache

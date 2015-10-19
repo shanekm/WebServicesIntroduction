@@ -1,0 +1,6 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\HelloWorld\bin\HelloWorld.dll.config
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\HelloWorld\bin\HelloWorld.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\HelloWorld\bin\HelloWorld.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\HelloWorld\obj\Debug\HelloWorld.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\WebServicesIntroduction\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\WebServicesIntroduction\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
